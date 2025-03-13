@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=440d70&height=120&section=header"/>
 
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=440d70&size=50&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Paiva;I'm+20+years+old;I'm+from+Brazil;I'm+Full+Stack+Developer;Be+Welcome!+:%29)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=440d70&size=50&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Paiva;I'm+21+years+old;I'm+from+Brazil;I'm+Full+Stack+Developer;Be+Welcome!+:%29)
 
 ### A passionate FullStack Developer from Brazil
 
