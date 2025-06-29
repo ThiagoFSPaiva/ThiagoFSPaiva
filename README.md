@@ -5,7 +5,7 @@
 
 ### A passionate FullStack Developer from Brazil
 
-🔭 I’m currently working on **Urbana PE**<br>🌱 I’m currently learning **Go Lang**<br>💬 Ask me about **Java**, **Spring Boot**<br>📫 How to reach me thiagofellipe151@gmail.com<br>⚡ Fun fact **I'm passionate about technology**
+🔭 I’m currently working on **TDS Company**<br>🌱 I’m currently learning **Go Lang**<br>💬 Ask me about **Java**, **Spring Boot**<br>📫 How to reach me thiagofellipe151@gmail.com<br>⚡ Fun fact **I'm passionate about technology**
 
 
 ## 🌐 Socials:
